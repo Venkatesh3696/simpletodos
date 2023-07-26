@@ -1,0 +1,22 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.orange-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 30px;
+}
+.white-container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.heading {
+  text-align: center;
+  color: #ff8542;
+}
+.todo-container {
+}
+.todo {
+}
